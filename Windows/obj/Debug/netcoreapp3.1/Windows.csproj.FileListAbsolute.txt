@@ -1,0 +1,13 @@
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\bin\Debug\netcoreapp3.1\Windows.exe
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\bin\Debug\netcoreapp3.1\Windows.deps.json
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\bin\Debug\netcoreapp3.1\Windows.runtimeconfig.json
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\bin\Debug\netcoreapp3.1\Windows.runtimeconfig.dev.json
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\bin\Debug\netcoreapp3.1\Windows.dll
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\bin\Debug\netcoreapp3.1\Windows.pdb
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\obj\Debug\netcoreapp3.1\Windows.csprojAssemblyReference.cache
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\obj\Debug\netcoreapp3.1\Windows.AssemblyInfoInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\obj\Debug\netcoreapp3.1\Windows.AssemblyInfo.cs
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\obj\Debug\netcoreapp3.1\Windows.csproj.CoreCompileInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\obj\Debug\netcoreapp3.1\Windows.dll
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\obj\Debug\netcoreapp3.1\Windows.pdb
+C:\Users\Robert Colville\Desktop\Repos\Windows1\Windows\obj\Debug\netcoreapp3.1\Windows.genruntimeconfig.cache
